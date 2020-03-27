@@ -11,5 +11,5 @@ app.get('/', function(req, res) {
 })
 
 app.listen(port, function() {
-	console.log('app running')
+	console.log('app running on 8080')
 })
